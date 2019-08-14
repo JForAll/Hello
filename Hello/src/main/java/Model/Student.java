@@ -7,7 +7,7 @@ public class Student {
 	private String  stuName;
 
 	public Integer getStuId() {
-		return stuId;
+		return stuId;//²»ÖªµÀ
 	}
 
 	public void setStuId(Integer stuId) {
